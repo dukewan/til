@@ -1,4 +1,4 @@
-# delete a branch
+# Delete a Branch
 
 ```javascript
 // local
