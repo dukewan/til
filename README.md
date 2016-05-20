@@ -4,6 +4,8 @@
 
 Keep updating till the end of life.
 
+5 notes and still counting...
+
 ---
 
 ### Categories
@@ -19,4 +21,8 @@ Keep updating till the end of life.
 
 ### Java
 
+- [Installation](Java/install.md)
+- [IntelliJ Idea Tips](Java/intellij-idea-tips.md)
+
 - [Hello World](Java/hello-world.md)
+- [Variables](Java/variables.md)
