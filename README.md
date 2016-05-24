@@ -4,7 +4,7 @@
 
 Keep updating till the end of life.
 
-5 notes and still counting...
+6 notes and still counting...
 
 ---
 
@@ -26,3 +26,7 @@ Keep updating till the end of life.
 
 - [Hello World](Java/hello-world.md)
 - [Variables](Java/variables.md)
+
+### Spring Boot
+
+- [Configuration and Retrieve info](SpringBoot/configuration-and-retrieve.md)
