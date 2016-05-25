@@ -4,7 +4,7 @@
 
 Keep updating till the end of life.
 
-6 notes and still counting...
+8 notes and still counting...
 
 ---
 
@@ -12,6 +12,9 @@ Keep updating till the end of life.
 
 * [Git](#git)
 * [Java](#java)
+* [Spring Boot](#springboot)
+* [Vim](#vim)
+
 
 ---
 
@@ -23,10 +26,14 @@ Keep updating till the end of life.
 
 - [Installation](Java/install.md)
 - [IntelliJ Idea Tips](Java/intellij-idea-tips.md)
-
 - [Hello World](Java/hello-world.md)
 - [Variables](Java/variables.md)
 
-### Spring Boot
+### SpringBoot
 
 - [Configuration and Retrieve info](SpringBoot/configuration-and-retrieve.md)
+- [MongoDb Config](SpringBoot/mongodb-config.md)
+
+### Vim
+
+- [Cursor Navigation](Vim/cursor-navigation.md)
