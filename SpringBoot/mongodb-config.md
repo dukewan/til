@@ -7,7 +7,7 @@ Two ways to configure MongoDB connection details:
 spring:
 	data:
         mongodb:
-            uri: "mongodb://your.ip.adress.here:27017/epcstore"  
+            uri: "mongodb://your.ip.adress.here:27017/yourdbname"  
 ```
 and it's all set!
 
@@ -18,7 +18,7 @@ mongodb:
     servers:
         - {host: your.ip.adress.here, port: 27017}
     dbNames:
-        sortRankDB: epcstore
+        sortRankDB: yourdbname
 ```
 then, write a config class to extend `AbstractMongoConfiguration` , we need to override several methods: `mongo()`,  `getDatabaseName()`.
 Some impeletation:
