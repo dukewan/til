@@ -6,9 +6,9 @@
 mongodb:
     # list of all servers in the mongo cluster (one line per server)
     servers:
-        - {host: 10.2.13.8, port: 27017}
+        - {host: your.ip.address.here, port: 27017}
     dbNames:
-        sortRankDB: epcstore
+        sortRankDB: yourdbname
 ```
 + Use below to retrieve the configurations and reflection to Java classes:
 ```java

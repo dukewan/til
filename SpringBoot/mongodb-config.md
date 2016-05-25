@@ -7,7 +7,7 @@ Two ways to configure MongoDB connection details:
 spring:
 	data:
         mongodb:
-            uri: "mongodb://10.2.13.8:27017/epcstore"  
+            uri: "mongodb://your.ip.adress.here:27017/epcstore"  
 ```
 and it's all set!
 
@@ -16,7 +16,7 @@ and it's all set!
 mongodb:
     # list of all servers in the mongo cluster (one line per server)
     servers:
-        - {host: 10.2.13.8, port: 27017}
+        - {host: your.ip.adress.here, port: 27017}
     dbNames:
         sortRankDB: epcstore
 ```
@@ -46,5 +46,3 @@ Some impeletation:
         return serverAddressList;
     }
 ```
-The config file is attached:
-[MongoDbConfig.java](attachments/MongoDbConfig.java)
