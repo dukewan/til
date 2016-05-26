@@ -1,10 +1,10 @@
 # TIL
 
-> Today I learned
+> Today I Learned
 
 Keep updating till the end of life.
 
-8 notes and still counting...
+9 notes and still counting...
 
 ---
 
@@ -21,6 +21,7 @@ Keep updating till the end of life.
 ### Git
 
 - [Delete A Branch](Git/delete-a-branch.md)
+- [Create Pull Request](Git/create-pull-request.md)
 
 ### Java
 
@@ -31,7 +32,7 @@ Keep updating till the end of life.
 
 ### SpringBoot
 
-- [Configuration and Retrieve info](SpringBoot/configuration-and-retrieve.md)
+- [Configuration and Retrieve Info](SpringBoot/configuration-and-retrieve.md)
 - [MongoDb Config](SpringBoot/mongodb-config.md)
 
 ### Vim
