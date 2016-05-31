@@ -4,7 +4,7 @@
 
 Keep updating till the end of life.
 
-9 notes and still counting...
+10 notes and still counting...
 
 ---
 
@@ -29,6 +29,7 @@ Keep updating till the end of life.
 - [IntelliJ Idea Tips](Java/intellij-idea-tips.md)
 - [Hello World](Java/hello-world.md)
 - [Variables](Java/variables.md)
+- [Get Date with Format](Java/get-date-with-format.md)
 
 ### SpringBoot
 
