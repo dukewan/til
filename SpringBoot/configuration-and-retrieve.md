@@ -1,4 +1,4 @@
-# Configuration and Retrieve info
+# Configuration and Retrieve Info
 
 + Use application.yml to store the configuration infos
 + eg: mongodb config in application.yml:
