@@ -2,6 +2,7 @@
 
 + Use application.yml to store the configuration infos
 + eg: mongodb config in application.yml:
+
 ```yml
 mongodb:
     # list of all servers in the mongo cluster (one line per server)
@@ -11,9 +12,12 @@ mongodb:
         sortRankDB: yourdbname
 ```
 + Use below to retrieve the configurations and reflection to Java classes:
+
 ```java
 @Configuration
 @ConfigurationProperties(prefix = "mongodb", ignoreUnknownFields = false)
 @EnableConfigurationProperties
 @EnableAutoConfiguration
 ```
+
++ Need to implement every property in the Java class, otherwise properties in configuration cann't be binded to class property and errors arise
