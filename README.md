@@ -4,7 +4,7 @@
 
 Keep updating till the end of life.
 
-6 notes and still counting...
+7 notes and still counting...
 
 ---
 
@@ -12,6 +12,9 @@ Keep updating till the end of life.
 
 * [Git](#git)
 * [Java](#java)
+* [JavaScript](#savascript)
+* [Spring Boot](#springboot)
+
 
 ---
 
@@ -23,9 +26,12 @@ Keep updating till the end of life.
 
 - [Installation](Java/install.md)
 - [IntelliJ Idea Tips](Java/intellij-idea-tips.md)
-
 - [Hello World](Java/hello-world.md)
 - [Variables](Java/variables.md)
+
+### JavaScript
+
+- [Array](JavaScript/array.md)
 
 ### Spring Boot
 
