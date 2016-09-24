@@ -12,7 +12,7 @@ Keep updating till the end of life.
 
 * [Git](#git)
 * [Java](#java)
-* [JavaScript](#savascript)
+* [JavaScript](#javascript)
 * [Spring Boot](#springboot)
 * [Vim](#vim)
 
