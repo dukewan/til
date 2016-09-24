@@ -1,10 +1,10 @@
 # TIL
 
-> Today I learned
+> Today I Learned
 
 Keep updating till the end of life.
 
-7 notes and still counting...
+11 notes and still counting...
 
 ---
 
@@ -14,6 +14,7 @@ Keep updating till the end of life.
 * [Java](#java)
 * [JavaScript](#savascript)
 * [Spring Boot](#springboot)
+* [Vim](#vim)
 
 
 ---
@@ -21,6 +22,7 @@ Keep updating till the end of life.
 ### Git
 
 - [Delete A Branch](Git/delete-a-branch.md)
+- [Create Pull Request](Git/create-pull-request.md)
 
 ### Java
 
@@ -28,11 +30,17 @@ Keep updating till the end of life.
 - [IntelliJ Idea Tips](Java/intellij-idea-tips.md)
 - [Hello World](Java/hello-world.md)
 - [Variables](Java/variables.md)
+- [Get Date with Format](Java/get-date-with-format.md)
 
 ### JavaScript
 
 - [Array](JavaScript/array.md)
 
-### Spring Boot
+### SpringBoot
 
-- [Configuration and Retrieve info](SpringBoot/configuration-and-retrieve.md)
+- [Configuration and Retrieve Info](SpringBoot/configuration-and-retrieve.md)
+- [MongoDb Config](SpringBoot/mongodb-config.md)
+
+### Vim
+
+- [Cursor Navigation](Vim/cursor-navigation.md)
