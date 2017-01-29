@@ -4,7 +4,7 @@
 
 Keep updating till the end of life.
 
-11 notes and still counting...
+13 notes and still counting...
 
 ---
 
@@ -35,6 +35,8 @@ Keep updating till the end of life.
 ### JavaScript
 
 - [Array](JavaScript/array.md)
+- [Operators](JavaScript/operators.md)
+- [Bit Manipulation](JavaScript/bit-manipulation.md)
 
 ### SpringBoot
 
@@ -44,3 +46,5 @@ Keep updating till the end of life.
 ### Vim
 
 - [Cursor Navigation](Vim/cursor-navigation.md)
+
+
